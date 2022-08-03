@@ -38,12 +38,6 @@ button{
     border: none;
     font-size: 13px;
 }
-.hover{
-       color:white;
-}
-.hover:hover{
-    color:white;
-}
 .button1{
        background-color: hsl(171, 66%, 44%);
        margin: 8px;
