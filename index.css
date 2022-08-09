@@ -169,8 +169,7 @@ li{
     opacity: 0.4;
     font-family: sans-serif;
 }
-@media screen 
-  and (max-width: 375px)  
+@media only screen and (min-width: 375px) and (max-width: 425px) 
    { 
        body{
            width:100%;
