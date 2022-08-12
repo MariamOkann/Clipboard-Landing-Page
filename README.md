@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://mariamokann.github.io/Clipboard-Landing-Page/)
+- Solution URL: https://www.frontendmentor.io/solutions/clipboard-landing-page-using-html-and-css-RIzV6YEkS4
+- Live Site URL: https://mariamokann.github.io/Clipboard-Landing-Page/
 
 ## My process
 
